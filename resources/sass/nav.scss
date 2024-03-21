@@ -1,0 +1,22 @@
+header {
+    width: 40%;
+    margin: 20px 0;
+
+    nav {
+        display: flex;
+        justify-content: space-around;
+    
+        a {
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 12spx;
+            background-color: rgb(67, 230, 67);
+            border: 1px solid rgb(54, 189, 54);
+            border-radius: 3px;
+            width: 25%;
+            color: black;
+            text-align: center;
+        }
+    }
+}
+
